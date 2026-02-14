@@ -5,7 +5,7 @@ BSC 鏈上自動狙擊買入機器人，監聯內盤代幣上線事件並自動�
 ## 收益展示
 
 **7 日已實現盈虧：+$2.17K (+23.54%)**
-<img width="1909" height="764" alt="image" src="https://github.com/user-attachments/assets/a72f9171-f911-4603-8ad7-b598ea9556fe" />
+<img width="685" height="599" alt="image" src="https://github.com/user-attachments/assets/148ab407-4fff-469c-a418-6d5ca68e428f" />
 查看實時收益：[Binance Web3 Portfolio](https://web3.binance.com/zh-CN/portfolio/bsc/0x18edc15024df2881d261310f972a75eddbe65a35)
 
 ## 功能
